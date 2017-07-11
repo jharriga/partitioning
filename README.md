@@ -1,2 +1,2 @@
 # partitioning
-Utilities for dealing with disk paritions
+Utilities for dealing with disk partitions
